@@ -14,7 +14,7 @@
     "minimist": "^1.2.0",
     "node-emoji": "^1.8.1",
     "path": "^0.12.7",
-    "shelljs": "^0.7.8"
+    "shelljs": "^0.8.5"
   },
   "dependencies": {},
   "scripts": {
